@@ -9,6 +9,5 @@ To try this app, please download the fully tested android APK. Sorry for IOS use
 ## Main React Components
 **Home** + **SearchResult**
 
-<img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss1.jpg" width='375'><img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss2.jpg" width='375'>
-<img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss3.jpg" width='375'><img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss4.jpg" width='375'>
-<img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss5.jpg" width='375'><img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/loading_1.gif" width='375'>
+<img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss1.jpg" width='375'>  <img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss2.jpg" width='375'>
+<img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss3.jpg" width='375'>  <img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss5.jpg" width='375'>
