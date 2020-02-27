@@ -7,8 +7,9 @@ As a previous designer, I would say UI restoration is nearly perfect. Thanks als
 To try this app, please download the fully tested android APK. Sorry for IOS users, as I haven't got IOS devices to test yet, it's better not to release it yet.<br/>
 
 ## Main React Components
-**Home** + **SearchResult**
+`Home.js` : `TopBar.js`+`SearchBox.js`+`DiscountSection.js`+`Menu.js`+`Setting.js`<br/>
+`SearchResult.js`:`FilterBar.js`+`FilterMenu.js`+`SRTopBar.js`+`HotelBox.js`
 
-<img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss1.jpg" width='375'>                 <img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss2.jpg" width='375'>
+<img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss1.jpg" width='375'>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss2.jpg" width='375'>
 
-<img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss3.jpg" width='375'>                 <img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss5.jpg" width='375'>
+<img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss3.jpg" width='375'>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sfyan/react-native-booking-app/blob/master/images/ss5.jpg" width='375'>
